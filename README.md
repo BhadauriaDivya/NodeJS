@@ -1,0 +1,1 @@
+Hello This file is made by nodeJS writeFile functionAdditional Data
